@@ -1,5 +1,5 @@
 # Memory-consistent-Autoencoder
-This is the toy data example of memory-consistent autoencoder (MCA).
+The code of memory-consistent autoencoder (MCA).
 
 # Requirements
 ~~~
